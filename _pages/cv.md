@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2022: Research Assistant
+* Summer 2022: Undergraduate Research Assistant
   * DSKT Lab, UET, VNU
   <!-- * Duties included: Tagging issues -->
   * Supervisor: Hoang-Quynh Le, Duc-Trong Le
