@@ -22,7 +22,7 @@ repository               : "hoang2306/hoang2306.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "flower_avatar.jpg"
+  avatar           : "flower_avatar_crop.jpg"
   name             : "Duc-Hoang Pham"
   pronouns         : "he/him"
   bio              : "noob try to find something in data"
