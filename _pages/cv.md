@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Bachelor in Information Technology, University of Engineering and Technology, VNU, 2022-2026 (expected)
+* Bachelor in Information Technology, University of Engineering and Technology, VNU: 2022-2026 (expected)
 
 
 Work experience
 ======
-* Summer 2022: Undergraduate Research Assistant
+* Summer 2023: Undergraduate Research Assistant
   * DSKT Lab, UET, VNU
   <!-- * Duties included: Tagging issues -->
   * Supervisor: Hoang-Quynh Le, Duc-Trong Le
