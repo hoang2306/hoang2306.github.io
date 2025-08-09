@@ -12,21 +12,10 @@ redirect_from:
 Education
 ======
 * Bachelor in Information Technology, University of Engineering and Technology, VNU, 2022-2026 (expected)
-<!-- * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012 -->
+
 
 Work experience
 ======
-<!-- * Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-
 * Summer 2022: Research Assistant
   * DSKT Lab, UET, VNU
   <!-- * Duties included: Tagging issues -->
