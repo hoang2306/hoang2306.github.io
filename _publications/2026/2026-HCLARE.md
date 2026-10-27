@@ -1,0 +1,24 @@
+---
+title:          "Hypergraph Reasoning and Clustering-based Aspect Enhancement for Explainable Recommendation"
+date:           2026-05-12 00:01:00 +0800
+selected:       true
+pub:            "Data Mining and Knowledge Discovery (Q1)"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2026"
+# semantic_scholar_id: 773acee7223c545b13d7139b2b20d00744fa91a6  # use this to retrieve citation count
+# abstract: >-
+#   Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+cover: /assets/images/covers/hclare.png
+authors:
+  - Quang-Huy Nguyen*
+  - Duc-Hoang Pham*
+  - Huy-Son Nguyen
+  - Cam-Van Thi-Nguyen
+  - Duc-Trong Le
+  - Hoang-Quynh Le#
+links:
+  Paper: https://drive.google.com/file/d/19HOtz-pRsw1AEu1jPoGytEixRDFc3CDZ/view
+  Code: https://github.com/L2R-UET/H-CLARE
+---
